@@ -2,7 +2,7 @@ name := "gatling-imap"
 
 version := "1.0-SNAPSHOT"
 
-scalaVersion := "2.12.8"
+scalaVersion := "2.13.2"
 
 val gatlingVersion = "3.0.3"
 
